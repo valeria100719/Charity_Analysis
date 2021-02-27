@@ -9,6 +9,7 @@ The data was pre-processed and optimized for accuracy of 75% or better.
 The target variable for this model was the "IS_SUCCESSFUL" variable.
 The features of this model are "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS" and "ASK_AMT".
 The variables that are superfluous for our analysis have been removed from the input data are the non-advantageous ID columns; "EIN" and "NAME".
+
 A binary classifier that is capable of predicting whether or not an applicant will be successful if funded by Alphabet Soup using the features collected in the provided dataset is created.
 
 ## Results
@@ -22,7 +23,7 @@ See the figures below
  fig3
 ![alt text](https://github.com/valeria100719/Charity_Analysis/blob/main/pics/3.png?raw=true)
 
-A binary classifier that is capable of predicting whether or not an applicant will be successful if funded by Alphabet Soup using the features collected in the provided dataset is created.
+
 
 ## suggestions
 
