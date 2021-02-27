@@ -1,8 +1,6 @@
 # Charity_Analysis
 
 The informatic system was used to assess whether non-profit candidates will be successful if funded by Alphabet Soup.
-
-We started our analysis with 34,000 organizations and information related to their funding history, income, status and whether or not they were successful.
 The data was pre-processed and optimized for accuracy of 75% or better.
 
 ## Analysis
